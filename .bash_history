@@ -17,3 +17,15 @@ help
 diplay help
 help
 exit
+git --help
+git help reset
+git reset -hard
+git reset --hard
+git help --commit
+git --help commit
+exit
+git commit first one
+git commit
+git commit -a
+cd\jim.appcove.net
+cd jim.work.appcove.net
