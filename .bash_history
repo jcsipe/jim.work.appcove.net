@@ -232,3 +232,6 @@ git commit -m "file upload testing "
 git commit -m "file upload testing " -a
 git push --all git@github.com:jcsipe/jim.work.appcove.net
 exit
+git commit -m "css tutorials" -a
+git push --all git@github.com:jcsipe/jim.work.appcove.net
+exit
