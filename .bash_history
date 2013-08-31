@@ -235,3 +235,6 @@ exit
 git commit -m "css tutorials" -a
 git push --all git@github.com:jcsipe/jim.work.appcove.net
 exit
+git commit -m "updated css tutorials" -a
+git push --all git@github.com:jcsipe/jim.work.appcove.net
+exit
