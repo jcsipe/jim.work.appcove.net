@@ -228,3 +228,7 @@ git commit -m "fil;e upload  testl"
 git commit -a "fil;e upload  testl"
 git push --all git@github.com:jcsipe/jim.work.appcove.net
 exit
+git commit -m "file upload testing "
+git commit -m "file upload testing " -a
+git push --all git@github.com:jcsipe/jim.work.appcove.net
+exit
